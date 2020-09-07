@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/lemonda"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:background="#fcbacb"
+                android:gravity="center"
+                android:text="@string/lemonda"
+                android:textColor="#7E1A3C"
+                android:textSize="16sp"
+                android:textStyle="bold|italic" />
+
+            <TextView
+                android:id="@+id/rose"
+                android:layout_width="match_parent"
+                android:layout_height="25dp"
+                android:background="#e3242b"
+                android:gravity="center"
+                android:text="@string/rose"
+                android:textColor="#DF9A95"
+                android:textSize="18sp"
+                android:textStyle="bold|italic" />
+
+            <TextView
+                android:id="@+id/scarlet"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:background="#900d09"
+                android:gravity="center"
+                android:text="@string/scarlet"
+                android:textColor="#EFAFAF"
+                android:textSize="18sp"
+                android:textStyle="bold|italic" />
+
+            <TextView
+                android:id="@+id/merigold"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:background="#FCAE1E"
+                android:gravity="center"
+                android:text="@string/merigold"
+                android:textSize="18sp"
+                android:textStyle="bold|italic" />
+
+            <TextView
+                android:id="@+id/tiger"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="#FC6A03"
+                android:gravity="center"
+                android:text="@string/tiger"
+                android:textColor="#FFC107"
+                android:textSize="18sp"
+                android:textStyle="bold|italic" />
+
+            <TextView
+                android:id="@+id/yellow"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="#FFF200"
+                android:gravity="center"
+                android:text="@string/yellow"
+                android:textColor="#FF5722"
+                android:textSize="18sp"
+                android:textStyle="bold|italic" />
+
+            <TextView
+                android:id="@+id/tuscany"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="#FCD12A"
+                android:gravity="center"
+                android:text="@string/tuscany"
+                android:textColor="#5B9E0E"
+                android:textSize="18sp"
+                android:textStyle="bold|italic" />
+
+            <TextView
+                android:id="@+id/lime"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:background="#aef359"
+                android:gravity="center"
+                android:text="@string/lime"
+                android:textSize="18sp"
+                android:textStyle="bold|italic" />
+
+            <TextView
+                android:id="@+id/moss"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:background="#466d1d"
+                android:gravity="center"
+                android:text="@string/moss"
+                android:textColor="#A4DA66"
+                android:textSize="18sp"
+                android:textStyle="bold|italic" />
+
+            <TextView
+                android:id="@+id/azure"
+                android:layout_width="match_parent"
+                android:layout_height="65dp"
+                android:background="#1520a6"
+                android:gravity="center"
+                android:text="@string/azure"
+                android:textColor="#12C5DC"
+                android:textSize="18sp"
+                android:textStyle="bold|italic" />
+
+            <TextView
+                android:id="@+id/cerulean"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:background="#0492c2"
+                android:gravity="center"
+                android:text="@string/cerulean"
+                android:textColor="#B2C9DC"
+                android:textSize="18sp"
+                android:textStyle="bold|italic" />
+
+            <TextView
+                android:id="@+id/arctic"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:background="#82eefd"
+                android:gravity="center"
+                android:text="@string/arctic"
+                android:textSize="18sp"
+                android:textStyle="bold|italic" />
+
+            <TextView
+                android:id="@+id/lilac"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:background="#B65fcf"
+                android:gravity="center"
+                android:text="@string/lilac"
+                android:textColor="#D6B8DC"
+                android:textSize="18sp"
+                android:textStyle="bold|italic" />
+
+            <TextView
+                android:id="@+id/magenta"
+                android:layout_width="match_parent"
+                android:layout_height="85dp"
+                android:background="#A1045A"
+                android:gravity="center"
+                android:text="@string/magenta"
+                android:textSize="18sp"
+                android:textStyle="bold|italic" />
+
+            <TextView
+                android:id="@+id/sangria"
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:background="#4D0F28"
+                android:gravity="center"
+                android:text="@string/sangria"
+                android:textColor="#C97ED6"
+                android:textSize="18sp"
+                android:textStyle="bold|italic" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

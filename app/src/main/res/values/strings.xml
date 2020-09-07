@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HW7_Ex2</string>
+    <string name="sangria">sangria</string>
+    <string name="lilac">lilac</string>
+    <string name="lime">lime</string>
+    <string name="moss">moss</string>
+    <string name="yellow">yellow</string>
+    <string name="merigold">merigold</string>
+    <string name="scarlet">scarlet</string>
+    <string name="tiger">tiger</string>
+    <string name="tuscany">tuscany</string>
+    <string name="azure">azure</string>
+    <string name="cerulean">cerulean</string>
+    <string name="rose">rose</string>
+    <string name="magenta">magenta</string>
+    <string name="arctic">arctic</string>
+    <string name="lemonda">lemonda</string>
+</resources>
